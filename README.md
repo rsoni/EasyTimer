@@ -1,5 +1,5 @@
 # EasyTimer
-A JavaScript setTimeout and setInterval implementation in C#
+A JavaScript setTimeout and setInterval implementation in C#. More details - http://dailycoding.com/Posts/easytimer__javascript_style_settimeout_and_setinterval_in_c.aspx
 
 ##Usage
 
